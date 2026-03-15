@@ -1,5 +1,5 @@
 # Tweeter-Analysis-Dashboard-using-Power-BI
-Power BI Twitter Analytics Dashboard built during internship in Elevance Skills to analyze tweet engagement, media performance, and interaction patterns. Implemented advanced DAX, conditional filters, median logic, and time-based visual visibility. Demonstrates skills in dashboard design, data analysis, and business logic implementation.
+Power BI Twitter Analytics Dashboard built to analyze tweet engagement, media performance, and interaction patterns. Implemented advanced DAX, conditional filters, median logic, and time-based visual visibility. Demonstrates skills in dashboard design, data analysis, and business logic implementation.
 
 This project is an advanced Twitter analytics dashboard built using Power BI to analyze tweet performance, engagement behavior, and interaction patterns under complex business and time-based constraints. The dashboard provides deep insights into tweet engagement, media performance, user interaction, and conversion behavior through interactive and conditionally visible visualizations.
 
